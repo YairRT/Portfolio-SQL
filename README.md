@@ -1,4 +1,4 @@
-# Portfolio_DataScience SQL
+# Portfolio SQL
 Here are various projects that I have developed involving managing of SQL databases.
 
 * We have "SQL_project.ipynb". The project's main objective was to knwo how to connect and interact
